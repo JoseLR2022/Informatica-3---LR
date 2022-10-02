@@ -1,0 +1,20 @@
+const typed = new Typed('.typed', {
+	strings: [
+		'<i class="mascota">Html 5</i>',
+		'<i class="mascota">java script</i>',
+		'<i class="mascota">Php</i>',
+		'<i class="mascota">Css</i>'
+	],
+
+	typeSpeed: 75, 
+	startDelay: 300, 
+	backSpeed: 75, 
+	smartBackspace: true, 
+	shuffle: false, 
+	backDelay: 1500, 
+	loop: true, 
+	loopCount: false, 
+	showCursor: true, 
+	cursorChar: '|', 
+	contentType: 'html', 
+});
