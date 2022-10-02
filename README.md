@@ -4,10 +4,6 @@
         
      <title>Web Hosting</title>
      
-<div class="contendor-texto">
-
-</div>
-
 <style>
 table, th, td {
 border: 1px solid black;
